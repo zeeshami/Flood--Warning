@@ -1,0 +1,12 @@
+Ultrasonic Sensor
+      VCC   -->   5V (NodeMCU)
+      GND   -->   GND (NodeMCU)
+      Trig  -->   D1 (NodeMCU)
+      Echo  -->   D2 (NodeMCU)
+
+NodeMCU (ESP8266)
+      VCC   -->   5V (Power Supply)
+      GND   -->   GND (Power Supply)
+      D1    -->   Trig Pin (Ultrasonic Sensor)
+      D2    -->   Echo Pin (Ultrasonic Sensor)
+
